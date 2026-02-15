@@ -44,4 +44,4 @@ This project was created for learning and portfolio purposes. The dataset used d
 
 ## Dashboard Preview
 
-![Dashboard overview] (KFC Dashboard.png)
+![KFC Dashboard](KFC-Dashboard.png)
